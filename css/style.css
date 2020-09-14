@@ -1,5 +1,48 @@
-img {
-  float: left;
+body 
+
+
+
+
+{
+  background-color: lightblue;
+  width: 900px;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+h1 {
+	font-size: 25px;
+	color: black;
+	text-align:left;
+
+
+
+
+}
+
+#vloot1 {
+  border: 2px solid black;
+  float:left;
+  margin: 10px;
+}
+
+#vloot2 {
+  border: 2px solid black;
+  float:right;
+  margin: 10px;
+}
+
+#vloot3 {
+  border: 2px solid black;
+  float:left;
+  margin: 10px;
+}
+
+
+
+
+
+
 }
 
 {
